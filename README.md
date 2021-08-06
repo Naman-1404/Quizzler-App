@@ -4,7 +4,7 @@
 ## What you will create
 I have created a quiz app that tests your general knowledge.
 
-## What you will learn
+## What i learn
 
 - Modularising your code into separate classes.
 - Dart classes and objects.
